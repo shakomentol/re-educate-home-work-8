@@ -355,3 +355,220 @@ h1 {
     margin-left: 40px;
     margin-top: -20px;
 }
+.nos-projets-div {
+    width: 200px;
+    height: 50px;
+    background-color: rgb(255, 115, 0);
+    margin-left: 530px;
+    position: relative;
+    border-radius: 4px;
+}
+.nos-projets-div p {
+    position: absolute;
+    font-size: 14px;
+    color: white;
+    margin-left: 75px;
+    margin-top: 20px;
+    letter-spacing: 1px;
+}
+.nos-projets-div p::before {
+    content: "";
+    display: inline-block;
+    width: 1px;
+    height: 15px;
+    background-color: white;
+    position: absolute;
+    margin-left: -10px;
+}
+.white-ball {
+    width: 15px;
+    height: 15px;
+    background-color:rgb(255, 81, 0);
+    border-radius: 43%;
+    position: absolute;
+    border: 3.5px solid white;
+    margin-left: 30px;
+    margin-top: 20px;
+}
+.section3 {
+    background-color: #F7F7F7;
+    height: 800px;
+    position: relative;
+}
+.nous-wrapper {
+    width: 72%;
+    display: inline-block;
+    margin-top: 100px;
+    position: relative;
+}
+.nous-contacter {
+    display: inline-block;
+    width: 17%;
+    height: 300px;
+    position: absolute;
+    border: 1px solid white;
+    margin-left: 40px;
+
+}
+.nous-contacter h3 {
+    font-size: 10px;
+    margin-left: 30px;
+    letter-spacing: 1px;
+}
+.phone-number {
+    font-size: 11px;
+    margin-left: 40px;
+    margin-top: 50px;
+    letter-spacing: 1px;
+
+}
+.phone-number-2 {
+    font-size: 11px;
+    margin-left: 40px;
+    margin-top: 40px;
+    letter-spacing: 1px;
+}
+.gmail-info {
+    font-size: 11px;
+    margin-left: 40px;
+    margin-top: 40px;
+    letter-spacing: 1px;
+}
+.nous-rencontrer {
+    display: inline-block;
+    width: 17%;
+    height: 300px;
+    position: absolute;
+    margin-left: 193px;
+    border: 1px solid white;
+    
+}
+.nous-rencontrer h3 {
+    font-size: 10px;
+    margin-left:30px;
+    letter-spacing: 1px;
+
+}
+.impact-asbl {
+    font-size: 9px;
+    margin-left: 30px;
+    margin-top: 55px;
+    letter-spacing: 1px;
+}
+.chaussee {
+    font-size: 9px;
+    margin-left: 30px;
+    margin-top: 35px;
+    letter-spacing: 1px;
+    position: absolute;
+}
+.ixelles {
+    font-size: 9px;
+    margin-left: 30px;
+    margin-top: 90px;
+    letter-spacing: 1px;
+    position: absolute;
+}
+.nous-suivre {
+    display: inline-block;
+    width: 17%;
+    height: 300px;
+    position: absolute;
+    margin-left: 346px;
+    border: 1px solid white;
+}
+.nous-suivre h3 {
+    font-size: 10px;
+    margin-left: 45px;
+    letter-spacing: 1px;
+    
+}
+.facebook {
+    margin-left: 45px;
+    margin-top: 45px;
+    font-size: 11px;
+    letter-spacing: 1px;
+}
+.twitter {
+    margin-left: 45px;
+    margin-top: 45px;
+    font-size: 11px;
+    letter-spacing: 1px;
+}
+.vimeo {
+    margin-left: 45px;
+    margin-top: 45px;
+    font-size: 11px;
+    letter-spacing: 1px;
+}
+.naviguer {
+    display: inline-block;
+    width: 17%;
+    height: 300px;
+    position: absolute;
+    margin-left: 500px;
+    border: 1px solid white;
+}
+.naviguer h3 {
+    font-size: 10px;
+    margin-left: 45px;
+    letter-spacing: 1px;
+}
+.home {
+    margin-left: 45px;
+    margin-top: 45px;
+    font-size: 11px;
+    letter-spacing: 1px;
+}
+.projet {
+    margin-left: 45px;
+    margin-top: 45px;
+    font-size: 11px;
+    letter-spacing: 1px;
+}
+.equipe {
+    margin-left: 45px;
+    margin-top: 45px;
+    font-size: 11px;
+    letter-spacing: 1px;
+}
+.vision {
+    margin-left: 45px;
+    margin-top: 45px;
+    font-size: 11px;
+    letter-spacing: 1px;
+}
+.sinscribe-a-notre {
+    width: 23%;
+    display: inline-block;
+    background-color: white;
+    margin-top: 100px;
+    height: 300px;
+    position: relative;
+}
+.first-text {
+    font-size: 12px;
+    margin-top: 40px;
+    margin-left: 35px;
+    position: absolute;
+    letter-spacing: 1px;
+}
+.second-text {
+    font-size: 13px;
+    margin-left: 30px;
+    margin-top: 120px;
+    letter-spacing: 1px;
+}
+.login {
+    margin-left: 40px;
+    margin-top: 20px;
+    position: absolute;
+}
+button {
+    background-color: rgb(0, 136, 255);
+    width: 30px;
+    height: 20px;
+    border: none;
+    border-radius: 1px;
+    color: white;
+}
